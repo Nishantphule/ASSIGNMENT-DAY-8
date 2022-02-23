@@ -1657,55 +1657,42 @@ OUTPUT FROM CONSOLE -
 Name: American Samoa
 Currency: USD
 
-script.js:117 
 Name: Bonaire, Sint Eustatius and Saba
 Currency: USD
 
-script.js:117 
 Name: British Indian Ocean Territory
 Currency: USD
 
-script.js:117 
 Name: United States Minor Outlying Islands
 Currency: USD
 
-script.js:117 
 Name: Virgin Islands (U.S.)
 Currency: USD
 
-script.js:117 
 Name: Ecuador
 Currency: USD
 
-script.js:117 
 Name: El Salvador
 Currency: USD
 
-script.js:117 
 Name: Guam
 Currency: USD
-
-script.js:117 
+ 
 Name: Marshall Islands
 Currency: USD
-
-script.js:117 
+ 
 Name: Northern Mariana Islands
 Currency: USD
 
-script.js:117 
 Name: Puerto Rico
 Currency: USD
 
-script.js:117 
 Name: Timor-Leste
 Currency: USD
 
-script.js:117 
 Name: Turks and Caicos Islands
 Currency: USD
 
-script.js:117 
 Name: United States of America
 Currency: USD
 
